@@ -1,0 +1,12 @@
+asyncssh
+brython
+dnspython
+httpserver
+#libratom erorr while building because python 3.12 is not compatible with system numpy version
+paramiko
+psutil
+pycryptodomex
+pyinstaller
+requests
+scapy
+wmi
